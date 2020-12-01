@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/aopalliance-repackaged-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/argparse4j-0.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/audience-annotations-0.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/connect-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/connect-basic-auth-extension-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/connect-file-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/connect-json-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/connect-runtime-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/connect-transforms-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/guava-20.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/hk2-api-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/hk2-locator-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/hk2-utils-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jackson-annotations-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jackson-databind-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jackson-dataformat-csv-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jackson-datatype-jdk8-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jackson-jaxrs-base-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jackson-jaxrs-json-provider-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jackson-module-jaxb-annotations-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jackson-module-paranamer-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jackson-module-scala_2.12-2.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jakarta.annotation-api-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jakarta.inject-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jakarta.ws.rs-api-2.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/javassist-3.22.0-CR2.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/javax.ws.rs-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jersey-client-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jersey-common-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jersey-container-servlet-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jersey-container-servlet-core-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jersey-hk2-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jersey-media-jaxb-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jersey-server-2.28.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jetty-client-9.4.18.v20190429.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jetty-continuation-9.4.18.v20190429.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jetty-http-9.4.18.v20190429.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jetty-io-9.4.18.v20190429.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jetty-security-9.4.18.v20190429.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jetty-server-9.4.18.v20190429.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jetty-servlet-9.4.18.v20190429.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jetty-servlets-9.4.18.v20190429.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jetty-util-9.4.18.v20190429.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jopt-simple-5.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka_2.12-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka_2.12-2.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka_2.12-2.3.0-scaladoc.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka_2.12-2.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka_2.12-2.3.0-test.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka_2.12-2.3.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka-clients-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka-log4j-appender-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka-streams-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka-streams-examples-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka-streams-scala_2.12-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka-streams-test-utils-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/kafka-tools-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/lz4-java-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/maven-artifact-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/paranamer-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/plexus-utils-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/reflections-0.9.11.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/rocksdbjni-5.18.3.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/scala-library-2.12.8.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/scala-logging_2.12-3.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/scala-reflect-2.12.8.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/slf4j-log4j12-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/snappy-java-1.1.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/spotbugs-annotations-3.1.9.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/validation-api-2.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/zkclient-0.11.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/zookeeper-3.4.14.jar"/>
+	<classpathentry kind="lib" path="C:/kafka_2.12-2.3.0/libs/zstd-jni-1.4.0-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/audience-annotations-0.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/commons-cli-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/jackson-annotations-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/jackson-databind-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/jackson-dataformat-csv-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/jackson-datatype-jdk8-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/jackson-module-paranamer-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/jackson-module-scala_2.12-2.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/jopt-simple-5.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/kafka_2.12-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/kafka-clients-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/lz4-java-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/netty-buffer-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/netty-codec-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/netty-common-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/netty-handler-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/netty-resolver-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/netty-transport-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/netty-transport-native-epoll-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/netty-transport-native-unix-common-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/paranamer-2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/scala-collection-compat_2.12-2.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/scala-java8-compat_2.12-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/scala-library-2.12.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/scala-logging_2.12-3.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/scala-reflect-2.12.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/snappy-java-1.1.7.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/zookeeper-3.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/zookeeper-jute-3.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Esrat Maria/Downloads/Programs/jars/kafka_jar_files/zstd-jni-1.4.4-7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
