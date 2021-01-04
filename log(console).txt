@@ -1,0 +1,63 @@
+Welcome to CacalTalk
+1. Log in
+2. Exit
+1
+Enter your ID: 
+joey
+cacaotalk> ID: joey
+Setting up connection.. Please wait!
+
+
+Chatting Window
+1. List
+2. Make
+3. Join
+4. Log Out
+1
+[new_chat_room, topic1, mnt_allu01, topic2, hellop, topic3, sogang, kok, new_topic, new_room, __consumer_offsets, aoi_allu01]
+Chatting Window
+1. List
+2. Make
+3. Join
+4. Log Out
+2
+Enter chat room name: 
+sogang
+'sogang' already exits! (duplication detecetd) 
+
+Chatting Window
+1. List
+2. Make
+3. Join
+4. Log Out
+3
+Enter the chat room name that you would like to join: 
+kafka
+
+There is no chat room called: kafka
+
+Chatting Window
+1. List
+2. Make
+3. Join
+4. Log Out
+3
+Enter the chat room name that you would like to join: 
+topic3
+
+Chat Room: topic3
+
+1. Read
+2. Write
+3. Reset
+4. Exit
+1
+Text> joey: I am Home ..
+Text> joey: what are you doing?
+Text> joey: Hello from topic3
+Chat Room: topic3
+
+1. Read
+2. Write
+3. Reset
+4. Exit
